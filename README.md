@@ -1,6 +1,6 @@
 ## Hey, I am Jourmore | Ph.D
 <p align="center">
-<img src="https://github.com/jourmore/jourmore/blob/main/Nano1615.png" width="200" class="center" alt="logo"/>
+<img src="https://github.com/jourmore/jourmore/blob/main/Nano.png" width="200" class="center" alt="logo"/>
     <br/>
 Logo by <a href="https://github.com/jourmore">Jourmore</a>
 </p>
