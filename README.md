@@ -4,9 +4,6 @@
     <br/>
 Logo by <a href="https://github.com/jourmore">Jourmore</a>
 </p>
-
-🗺We are the research group of professor Xuemei Pu, School of Chemistry, SiChuan University, which conducts foundational research in machine learning and deep learning and applies machine learning methods to solve challenging real-world problems in biology, chemistry, neuroscience and medicine. [Prof. Pu's Homepage](https://chem.scu.edu.cn/info/1049/1167.htm).
-
 ---
 
 **Highlighted Work**
