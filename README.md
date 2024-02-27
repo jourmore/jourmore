@@ -1,9 +1,10 @@
-## Hey, I am Jourmore | Ph.D
+## Hey, I am Jourmore
+<!--
 <p align="center">
 <img src="https://github.com/jourmore/jourmore/blob/main/Nano.png" width="200" class="center" alt="logo"/>
     <br/>
 </p>
-
+-->
 ---
 
 **Highlighted Work**
