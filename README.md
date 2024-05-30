@@ -1,11 +1,14 @@
 ## Hey, I am Jourmore
-<p style="text-align: center;">
-    <img src="https://github.com/jourmore/jourmore/blob/main/png60-roll-unscreen.gif" width="200" alt="logo"/>
-</p>
 
 **Highlighted Work**
 * 2019-2023: Toxicology, CADD, Machine Learning, Molecular Dynamics Simulation
+<p style="text-align: center;">
+    <img src="https://github.com/jourmore/jourmore/blob/main/md.png" width="200" alt="logo"/>
+</p>
 * 2024:: NBsTem Webserver
+<p style="text-align: center;">
+    <img src="https://github.com/jourmore/jourmore/blob/main/png60-roll-unscreen.gif" width="200" alt="logo"/>
+</p>
 
 <!-- * [DIG: A Turnkey Library for Diving into Graph Deep Learning Research](https://github.com/divelab/DIG)
 * [MoleculeX: Advanced Graph and Sequence Neural Networks for Molecular Property Prediction and Drug Discovery](https://github.com/divelab/MoleculeX)
