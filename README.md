@@ -1,10 +1,8 @@
 ## Hey, I am Jourmore
-<!--
 <p align="center">
-<img src="https://github.com/jourmore/jourmore/blob/main/Nano.png" width="200" class="center" alt="logo"/>
+<img src="https://github.com/jourmore/jourmore/blob/main/png60-roll-unscreen.gif" width="200" class="center" alt="logo"/>
     <br/>
 </p>
--->
 
 **Highlighted Work**
 * Will be filled...
