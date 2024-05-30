@@ -5,7 +5,7 @@
 <p style="text-align: center;">
     <img src="https://github.com/jourmore/jourmore/blob/main/md.png" width="200" alt="logo"/>
 </p>
-* 2024:: NBsTem Webserver
+* 2024:: AI&MD&Web in Nanobody Research
 <p style="text-align: center;">
     <img src="https://github.com/jourmore/jourmore/blob/main/png60-roll-unscreen.gif" width="200" alt="logo"/>
 </p>
