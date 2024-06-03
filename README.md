@@ -2,7 +2,7 @@
 
 **Highlighted Work**
 * 2019-2023: Toxicology, CADD, Machine Learning, Molecular Dynamics Simulation
-* 2024:: AI&MD&Web in Nanobody Research
+* 2024-Now : AI&MD&Web in Nanobody Research
 <p align="center">
     <img align="center" src="https://github.com/jourmore/jourmore/blob/main/md.png" width="200" alt="logo"/>
     <img align="center" src="https://github.com/jourmore/jourmore/blob/main/png60-roll-unscreen.gif" width="200" alt="logo"/>
