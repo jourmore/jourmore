@@ -1,8 +1,8 @@
 ## Hey, I am Jourmore
 
 **Highlighted Work**
-* 2019-2023: Toxicology, CADD, Machine Learning, Molecular Dynamics Simulation
-* 2024-Now: Chemistry and Bioinformatics (AI&MD&Web)
+* 2019-2022: Toxicology, CADD, Machine Learning, Molecular Dynamics Simulation
+* 2022-Now: Chemistry and Bioinformatics (AI & MD & Web)
 <p align="center">
     <img align="center" src="https://github.com/jourmore/jourmore/blob/main/md.png" width="100" alt="logo"/>
     <img align="center" src="https://github.com/jourmore/jourmore/blob/main/png60-roll-unscreen.gif" width="100" alt="logo"/>
